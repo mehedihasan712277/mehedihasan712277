@@ -1,4 +1,4 @@
-(https://i.ibb.co/Z6hddBJ/1686232557204.jpg)
+<img src="https://i.ibb.co/Z6hddBJ/1686232557204.jpg">
 ### Hi there 👋, my name is Md. Mehedi Hasan
 #### I am a MERN Stack developer
 ![I am a MERN Stack developer]
