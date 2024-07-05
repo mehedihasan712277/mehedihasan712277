@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/Z6hddBJ/1686232557204.jpg" height='200'>
+<img src="https://i.ibb.co/Z6hddBJ/1686232557204.jpg" height='500' width='full'>
 ### Hi there 👋, my name is Md. Mehedi Hasan
 #### I am a MERN Stack developer
 ![I am a MERN Stack developer]
