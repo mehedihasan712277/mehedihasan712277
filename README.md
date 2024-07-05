@@ -6,7 +6,7 @@ I am a MERN stack developer with a strong foundation in both frontend and backen
 
 Skills: HTML, CSS, Tailwind CSS, Javascript, Typescript, React JS, Next JS, Express JS, MongoDB 
 
-- 🔭 I’m currently working on [(https://amarprani.com/)] as a frontend developer 
+- 🔭 I’m currently working on [Amarprani.com](https://amarprani.com/) as a frontend developer 
 - 📫 How to reach me: mehedihasan7122777@gmail.com 
 
 
