@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Md. Mehedi Hasan
 #### I am a MERN Stack developer
-![I am a MERN Stack developer](https://i.ibb.co/Z6hddBJ/1686232557204.jpg)
+![I am a MERN Stack developer](https://i.ibb.co/yh8k5yy/mern.png)
 
 I am a MERN stack developer with a strong foundation in both frontend and backend technologies. Currently, I am working as a frontend developer at a dynamic startup, where I apply my skills to create user-friendly and responsive web applications. While I am still in the process of mastering the MERN stack, I have already completed most of my learning and continuously strive to enhance my knowledge and expertise in this field. Passionate about coding and problem-solving, I enjoy contributing to innovative projects and collaborating with like-minded professionals.
 
