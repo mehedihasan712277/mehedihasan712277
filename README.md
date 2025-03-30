@@ -10,7 +10,7 @@ I'm a **MERN Stack Developer** passionate about building scalable and efficient 
 
 ### 💼 Experience
 - Former **Frontend Developer** at [AmarPrani.com](https://amarprani.com)
-- Former **Frontend Developer** at **Bigmod Technologies**
+- Former **Frontend Developer** at **[Bigmod Technologies](https://bigmodtech.com/)**
 - Currently working with clients as an independent developer
 
 ### 📫 Connect with Me
