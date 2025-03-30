@@ -18,8 +18,8 @@ I'm a **MERN Stack Developer** passionate about building scalable and efficient 
 - 📧 Email: mehedihasan7122777@gmail.com
 
 ## 📊 GitHub Stats
-![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedihasan-7122777&show_icons=true&theme=github_dark)
+![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedihasan-712277&show_icons=true&theme=github_dark)
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan7122777&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan712277&layout=compact&theme=github_dark)
 
