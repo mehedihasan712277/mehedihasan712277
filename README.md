@@ -23,9 +23,14 @@ I'm a **MERN Stack Developer** passionate about building scalable and efficient 
 ## 📊 GitHub Stats
 ![Mehedi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan712277&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
+![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedihasan712277&show_icons=true&theme=github_dark)
+
+--
+
 ![Mehedi's GitHub Streak](https://github-readme-stats.vercel.app/api?username=mehedihasan712277&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedihasan712277&show_icons=true&theme=github_dark)
+![Mehedi's GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=mehedihasan712277&theme=github-dark&hide_border=true)
+
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan712277&layout=compact&theme=github_dark)
