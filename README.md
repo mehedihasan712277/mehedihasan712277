@@ -11,9 +11,9 @@ I'm a **MERN Stack Developer** passionate about building scalable and efficient 
 - **Others:** ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### 💼 Experience
-- Former **AI Reviewer and Trainer** at [Outlier](https://outlier.ai/)
 - Former **Frontend Developer** at [AmarPrani.com](https://amarprani.com)
 - Former **Frontend Developer** at **[Bigmod Technologies](https://bigmodtech.com/)**
+- **AI Reviewer and Trainer** at [Outlier](https://outlier.ai/)
 - Currently working with clients as an independent developer
 
 ### 📫 Connect with Me
