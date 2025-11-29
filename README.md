@@ -15,6 +15,16 @@ I'm a **MERN Stack Developer** passionate about building scalable and efficient 
 - Former **Frontend Developer** at **[Bigmod Technologies](https://bigmodtech.com/)**
 - **AI Reviewer and Trainer** at [Outlier](https://outlier.ai/)
 - Currently working with clients as an independent developer
+- clinets:
+    1. [science bee](https://www.sciencebee.com.bd).
+       Project: Learning Management System Website for Science bee.
+       Role : Team Leader & Frontend Developer (Next.js)
+       Project Link: [Science Bee LMS](https://science-bee-client-virid.vercel.app)
+       The website is in construction. It is not fully responsive yet. 
+    2. [Vivid Interior & Design](https://vividinteriorstudio.com)
+       Project: Company Portfolio for Vivid Interior % Desing (a interior design company located at Hatirpol, Dhaka)
+       Role: Full Stack Developer (MERN)
+       Project Link: [Vivid Interior & Design](https://vividinteriorstudio.com)
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-1228ba337)
