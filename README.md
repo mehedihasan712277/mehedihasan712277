@@ -1,7 +1,6 @@
 # Hi there, I'm Md. Mehedi Hasan! 👋
 
 ## 🚀 About Me
-I'm currently learning **Cyber Security** to enhance my knowledge in securing web applications and systems.
 I'm a **MERN Stack Developer** passionate about building scalable and efficient web applications. I specialize in both frontend and backend development, ensuring seamless user experiences.
 
 ### 🔧 Technologies & Tools
