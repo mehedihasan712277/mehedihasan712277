@@ -24,6 +24,10 @@ I'm a **MERN Stack Developer** passionate about building scalable and efficient 
        Project: Company Portfolio for Vivid Interior % Desing (a interior design company located at Hatirpol, Dhaka) </br>
        Role: Full Stack Developer (MERN) </br>
        Project Link: [Vivid Interior & Design](https://vividinteriorstudio.com) </br>
+    3. **Al Idaad** ([official Link](https://alidaad.com)) </br>
+       Project: E-commerce website redesign for Al Idaad. They already have an existing website, as shown in the official link. I am redesigning their e-commerce platform from scratch </br>
+       Role: Full Stack Developer (MERN) </br>
+       Project Link: [Vivid Interior & Design](https://al-idaad-client.vercel.app) </br>
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-1228ba337)
