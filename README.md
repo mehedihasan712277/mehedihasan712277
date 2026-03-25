@@ -19,11 +19,11 @@ I'm a **MERN Stack Developer** passionate about building scalable and efficient 
        Project: Learning Management System Website for Science bee. </br>
        Role : Team Leader & Frontend Developer (Next.js) </br>
        Project Link: [Science Bee LMS](https://science-bee-client-virid.vercel.app)
-       The website is in construction. It is not fully responsive yet. 
+       The website is in construction. It is not fully responsive yet. </br> </br>
     2. **Vivid Interior & Design** ([official Link](https://vividinteriorstudio.com)) </br>
        Project: Company Portfolio for Vivid Interior % Desing (a interior design company located at Hatirpol, Dhaka) </br>
        Role: Full Stack Developer (MERN) </br>
-       Project Link: [Vivid Interior & Design](https://vividinteriorstudio.com) </br>
+       Project Link: [Vivid Interior & Design](https://vividinteriorstudio.com) </br></br>
     3. **Al Idaad** ([official Link](https://alidaad.com)) </br>
        Project: E-commerce website redesign for Al Idaad. They already have an existing website, as shown in the official link. I am redesigning their e-commerce platform from scratch </br>
        Role: Full Stack Developer (MERN) </br>
