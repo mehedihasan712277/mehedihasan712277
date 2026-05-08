@@ -18,6 +18,7 @@ I'm a **MERN Stack Developer** passionate about building scalable and efficient 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-1228ba337)
 - 📧 Email: mehedihasan7122777@gmail.com
+- 💼 [Portfolio](https://mdmehedihasan-portfolio.vercel.app)
 
 ## 📊 GitHub Stats
 ![Mehedi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan712277&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
