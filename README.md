@@ -1,33 +1,86 @@
-# Hi there, I'm Md. Mehedi Hasan! 👋
+<div align="center">
 
-## 🚀 About Me
-I'm a **MERN Stack Developer** passionate about building scalable and efficient web applications. I specialize in both frontend and backend development, ensuring seamless user experiences.
+<!-- Banner image -->
+<img src="https://res.cloudinary.com/durvy5ois/image/upload/v1783520581/github_banner_ywm3gy.png" alt="Banner" width="100%"/>
 
-### 🔧 Technologies & Tools
-- **Programming Languages:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Frontend:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-- **Backend:** ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-- **Others:** ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mehedi+Hasan;Full+Stack+Web+Developer;Building+Clean%2C+Scalable+Web+Apps" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mehedi-personal-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmehedihasan-web-developer)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasan7122777@gmail.com)
+
+</div>
+
+---
+
+### 👨‍💻 About
+
+- 🌱 Full Stack Web Developer specializing in **React.js / Next.js** and **Node.js / Express.js**
+- 🚀 Building custom web apps as an **Independent Full Stack Developer**
+- 🔭 Currently developing an **e-commerce platform** and a **Learning Management System (LMS)**
+- 💬 Ask me about React, Next.js, Node.js, MongoDB, PostgreSQL & Tailwind CSS
+- 📍 Based in Dhaka, Bangladesh
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages** &nbsp; <img src="https://skillicons.dev/icons?i=js,ts,py,c" height="32"/>
+
+**Frontend** &nbsp; <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" height="32"/>
+
+**Backend & Database** &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" height="32"/>
+
+**Auth & Security** &nbsp; <img src="https://skillicons.dev/icons?i=firebase" height="32"/> <img height="26" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img height="26" src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
+**Tools & Design** &nbsp; <img src="https://skillicons.dev/icons?i=figma,ps,git,github,vercel" height="32"/>
+
+---
 
 ### 💼 Experience
-- **Frontend Developer** at **[Bigmod Technologies](https://bigmodtech.com/)**
-- Former **AI Reviewer and Trainer** at [Outlier](https://outlier.ai/)
-- Currently working with clients as an independent MERN Stack developer
 
+**Frontend Developer** — Bigmod Technology _(Part-time, Remote)_ — April 2026 – Present
 
-### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-1228ba337)
-- mehedihasan7122777@gmail.com
-- [Portfolio](https://mdmehedihasan-portfolio.vercel.app)
+- Build and maintain responsive user interfaces using React, Next.js, and Tailwind CSS
+- Integrate frontend applications with REST APIs in collaboration with backend developers
+- Convert Figma designs into pixel-perfect, responsive interfaces
 
-## 📊 GitHub Stats
-![Mehedi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan712277&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+**Independent Full Stack Developer** — Remote — 2025 – Present
 
-![Mehedi's GitHub Streak](https://github-readme-stats.vercel.app/api?username=mehedihasan712277&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+- Develop custom web applications for companies and individual clients
+- Manage projects from planning and development to deployment and client support
 
+---
 
+### 📫 Contact
 
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan712277&layout=compact&theme=github_dark)
+- ✉️ Email: **mehedihasan7122777@gmail.com**
+- 📱 Phone: **+880 1405 748197**
+- 🔗 [Portfolio](https://mehedi-personal-portfolio.vercel.app) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/mdmehedihasan-web-developer) &nbsp;|&nbsp; [GitHub](https://github.com/mehedihasan712277)
 
+---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehedihasan712277&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan712277&layout=compact&hide_border=true&theme=default" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan712277&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ Thanks for visiting my profile — feel free to connect and collaborate!
+
+</div>
