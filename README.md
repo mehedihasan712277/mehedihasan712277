@@ -57,7 +57,7 @@
 
 - ✉️ Email: **mehedihasan7122777@gmail.com**
 - 📱 Phone: **+880 1405 748197**
-- 🔗 [Portfolio](https://mehedi-personal-portfolio.vercel.app) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/mdmehedihasan-web-developer) &nbsp;|&nbsp; [GitHub](https://github.com/mehedihasan712277)
+- 🔗 [Portfolio](https://mehedi-personal-portfolio.vercel.app) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/mdmehedihasan-web-developer) &nbsp;|&nbsp; [Facebook](https://www.facebook.com/share/18mtNYcwmQ)
 
 ---
 
