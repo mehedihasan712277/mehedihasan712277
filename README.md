@@ -6,6 +6,10 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mehedi+Hasan;Full+Stack+Web+Developer;Building+Clean%2C+Scalable+Web+Apps" alt="Typing SVG" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmehedihasan-web-developer)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasan7122777@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge)](https://mehedi-personal-portfolio.vercel.app)
+
 </div>
 
 ---
