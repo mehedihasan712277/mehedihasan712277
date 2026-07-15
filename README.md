@@ -29,6 +29,7 @@
 - 💬 Ask me about React, Next.js, Node.js, MongoDB, PostgreSQL & Tailwind CSS
 - 📍 Based in Dhaka, Bangladesh
 
+<br/>
 
 # 🛠️ Tech Stack
 
@@ -42,6 +43,7 @@
 
 **Tools & Design** &nbsp; <img src="https://skillicons.dev/icons?i=figma,ps,git,github,vercel" height="32"/>
 
+<br/>
 
 # 💼 Experience
 
@@ -56,7 +58,7 @@
 - Develop custom web applications for companies and individual clients
 - Manage projects from planning and development to deployment and client support
 
--
+<br/>
 
 # 📫 Contact
 
@@ -64,7 +66,7 @@
 - 📱 Phone: **+880 1405 748197**
 - 🔗 [Portfolio](https://mehedi-personal-portfolio.vercel.app) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/mdmehedihasan-web-developer) &nbsp;|&nbsp; [Facebook](https://www.facebook.com/share/18mtNYcwmQ)
 
--
+<br/>
 
 # 📊 GitHub Stats
 
@@ -79,7 +81,7 @@
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
