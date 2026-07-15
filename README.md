@@ -20,9 +20,8 @@
 
 </div>
 
----
 
-### 👨‍💻 About
+# 👨‍💻 About
 
 - 🌱 Full Stack Web Developer specializing in **React.js / Next.js** and **Node.js / Express.js**
 - 🚀 Building custom web apps as an **Independent Full Stack Developer**
@@ -30,9 +29,8 @@
 - 💬 Ask me about React, Next.js, Node.js, MongoDB, PostgreSQL & Tailwind CSS
 - 📍 Based in Dhaka, Bangladesh
 
----
 
-### 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 **Languages** &nbsp; <img src="https://skillicons.dev/icons?i=js,ts,py,c" height="32"/>
 
@@ -44,9 +42,8 @@
 
 **Tools & Design** &nbsp; <img src="https://skillicons.dev/icons?i=figma,ps,git,github,vercel" height="32"/>
 
----
 
-### 💼 Experience
+# 💼 Experience
 
 **Frontend Developer** — Bigmod Technology _(Part-time, Remote)_ — April 2026 – Present
 
@@ -59,17 +56,17 @@
 - Develop custom web applications for companies and individual clients
 - Manage projects from planning and development to deployment and client support
 
----
+-
 
-### 📫 Contact
+# 📫 Contact
 
 - ✉️ Email: **mehedihasan7122777@gmail.com**
 - 📱 Phone: **+880 1405 748197**
 - 🔗 [Portfolio](https://mehedi-personal-portfolio.vercel.app) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/mdmehedihasan-web-developer) &nbsp;|&nbsp; [Facebook](https://www.facebook.com/share/18mtNYcwmQ)
 
----
+-
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
