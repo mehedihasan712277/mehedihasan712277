@@ -3,9 +3,15 @@
 <!-- Banner image -->
 <img src="https://res.cloudinary.com/durvy5ois/image/upload/v1783520581/github_banner_ywm3gy.png" alt="Banner" width="100%"/>
 <br />
-<h2> Md. Mehedi Hasan </h2>
+
+<div align="center">
+  <span style="font-size:32px; font-weight:bold;">Md. Mehedi Hasan</span>
+</div>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=JavaScript+%26+TypeScript+Enthusiast;Building+Optimized+%26+Scalable+Web+Apps" alt="Typing SVG" />
+
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mehedi+Hasan;Full+Stack+Web+Developer;Building+Clean%2C+Scalable+Web+Apps" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmehedihasan-web-developer)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasan7122777@gmail.com)
