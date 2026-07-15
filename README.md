@@ -3,7 +3,7 @@
 <!-- Banner image -->
 <img src="https://res.cloudinary.com/durvy5ois/image/upload/v1783520581/github_banner_ywm3gy.png" alt="Banner" width="100%"/>
 <br />
-#Md. Mehedi Hasan
+# Md. Mehedi Hasan
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mehedi+Hasan;Full+Stack+Web+Developer;Building+Clean%2C+Scalable+Web+Apps" alt="Typing SVG" />
 
