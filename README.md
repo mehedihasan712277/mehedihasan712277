@@ -4,9 +4,9 @@
 <img src="https://res.cloudinary.com/durvy5ois/image/upload/v1783520581/github_banner_ywm3gy.png" alt="Banner" width="100%"/>
 <br />
 
-<div align="center">
-  <span style="font-size:32px; font-weight:bold;">Md. Mehedi Hasan</span>
-</div>
+<p align="center">
+  <strong><font size="6">Md. Mehedi Hasan</font></strong>
+</p>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=JavaScript+%26+TypeScript+Enthusiast;Building+Optimized+%26+Scalable+Web+Apps" alt="Typing SVG" />
