@@ -47,6 +47,11 @@
 
 # 💼 Experience
 
+**Software Engineer Intern** — Brainify Technology _(Intern, Onsite)_ — October 2026 – Present
+
+- Build and maintain AI Web Product
+- Find bug, design issue and solve them of company's product
+
 **Frontend Developer** — Bigmod Technology _(Part-time, Remote)_ — April 2026 – Present
 
 - Build and maintain responsive user interfaces using React, Next.js, and Tailwind CSS
